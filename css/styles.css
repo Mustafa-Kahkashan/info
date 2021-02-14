@@ -1,0 +1,60 @@
+body{
+  text-align: center;
+  padding-top: 100px;
+font-family: 'Merriweather', serif;
+}
+
+h1{
+
+  margin: 0;
+  font-size: 60px;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+.middleContainer{
+  margin: 20px;
+}
+h2{
+  margin: 0;
+  font-size: 20px;
+  font-family: 'Merriweather'; serif;
+  color: #66BFBF;
+}
+
+.top-cloud{
+  position: relative;
+  left: 300px;
+  margin-top: : 200px;
+}
+
+.bottomContainer{
+
+position: absolute;
+margin-top: 100px;
+
+
+}
+
+.skill-row{
+text-align: auto;
+line-height: 2;
+
+
+}
+
+
+.chillies{
+
+float: auto;
+margin-left: 80px;
+
+}
+
+.lan{
+  width: 50%;
+  line-height: 2;
+  text-align: center;
+  position: relative;
+  left: 300px;
+
+}
